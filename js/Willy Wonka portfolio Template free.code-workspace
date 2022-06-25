@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Willy Wonka portfolio Template free",
+			"path": "..\\..\\..\\..\\..\\Willy Wonka portfolio Template free"
+		},
+		{
+			"name": "API",
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "API"
+	}
+}
